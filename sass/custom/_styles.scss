@@ -1,0 +1,25 @@
+// This File is imported last, and will override other styles in the cascade
+// Add styles here to make changes without digging in too much
+
+.navbar {
+    .container {
+        height: 6em;
+        padding-top: 3em;
+
+        .brand {
+            font-size: 2em;
+        }
+
+        ul.nav{
+            padding-top: -1em;
+        }
+    }
+}
+
+// body { padding-top: 6em; }
+
+.entry-content {
+  p {
+      font-size: 1.3em;
+  }
+}
