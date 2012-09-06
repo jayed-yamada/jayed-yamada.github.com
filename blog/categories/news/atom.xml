@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: News | 行動開始]]></title>
+  <title><![CDATA[Category: News | Start Up]]></title>
   <link href="http://jayed-yamada.github.com/blog/categories/news/atom.xml" rel="self"/>
   <link href="http://jayed-yamada.github.com/"/>
-  <updated>2012-09-07T01:05:38+09:00</updated>
+  <updated>2012-09-07T01:26:58+09:00</updated>
   <id>http://jayed-yamada.github.com/</id>
   <author>
     <name><![CDATA[Jayed Yamada]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[ごあいさつ]]></title>
-    <link href="http://jayed-yamada.github.com/blog/2012/09/06/my-first-post/"/>
-    <updated>2012-09-06T16:54:00+09:00</updated>
-    <id>http://jayed-yamada.github.com/blog/2012/09/06/my-first-post</id>
+    <link href="http://jayed-yamada.github.com/blog/2012/09/01/my-first-post/"/>
+    <updated>2012-09-01T16:54:00+09:00</updated>
+    <id>http://jayed-yamada.github.com/blog/2012/09/01/my-first-post</id>
     <content type="html"><![CDATA[<p>これは、テストです。</p>
 
 <p>おおいおいおい。まじですか</p>
