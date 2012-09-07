@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Start Up]]></title>
+  <title><![CDATA[火曜日のルビー]]></title>
   <link href="http://jayed-yamada.github.com/atom.xml" rel="self"/>
   <link href="http://jayed-yamada.github.com/"/>
-  <updated>2012-09-07T01:26:58+09:00</updated>
+  <updated>2012-09-07T09:16:02+09:00</updated>
   <id>http://jayed-yamada.github.com/</id>
   <author>
     <name><![CDATA[Jayed Yamada]]></name>
@@ -14,13 +14,61 @@
 
   
   <entry>
-    <title type="html"><![CDATA[ごあいさつ]]></title>
-    <link href="http://jayed-yamada.github.com/blog/2012/09/01/my-first-post/"/>
-    <updated>2012-09-01T16:54:00+09:00</updated>
-    <id>http://jayed-yamada.github.com/blog/2012/09/01/my-first-post</id>
-    <content type="html"><![CDATA[<p>これは、テストです。</p>
+    <title type="html"><![CDATA[メール自動返信サービス『Dispatch』 の使い道を考える]]></title>
+    <link href="http://jayed-yamada.github.com/blog/2012/09/07/think-about-dispatch/"/>
+    <updated>2012-09-07T05:21:00+09:00</updated>
+    <id>http://jayed-yamada.github.com/blog/2012/09/07/think-about-dispatch</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[さようならJenkins, こんにちわ Railsonfire]]></title>
+    <link href="http://jayed-yamada.github.com/blog/2012/09/07/good-by-jenkins-hello-railsonfire/"/>
+    <updated>2012-09-07T05:16:00+09:00</updated>
+    <id>http://jayed-yamada.github.com/blog/2012/09/07/good-by-jenkins-hello-railsonfire</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[スモールビジネス向けタイムトラッキングサービス3選]]></title>
+    <link href="http://jayed-yamada.github.com/blog/2012/09/07/3-time-tracking-services-for-freelansers-and-small-team/"/>
+    <updated>2012-09-07T01:34:00+09:00</updated>
+    <id>http://jayed-yamada.github.com/blog/2012/09/07/3-time-tracking-services-for-freelansers-and-small-team</id>
+    <content type="html"><![CDATA[<p><img src="http://technology.infomine.com/projectmanagement/ProjectManagement_files/image004.jpg"></p>
 
-<p>おおいおいおい。まじですか</p>
+<p>スモールビジネス向けのゆるーいプロジェクト管理は世の中にたくさんありますよね。有名どころでは、<a href="http://basecamp.com/">BaseCamp</a> や<a href="http://www.pivotaltracker.com/">PivotalTracker</a>などでしょうか。最近では、<a href="http://www.pivotaltracker.com/">Asana</a>が話題ですね。</p>
+
+<p>今回ご紹介するのも、プロジェクト管理系ではあるんですが、わざわざ <strong> タイムトラッカー系 </strong> と表現を分けたのには理由があります</p>
+
+<ul>
+<li>メンバの経過時間を入力する</li>
+<li>各ユーザ（プロジェクトメンバ)には、時間あたりの <strong> 単価 </strong> がある</li>
+<li>掛かった時間 × 単価(作業金額)や、プロジェクトに掛かった金額（プロジェクト売上）を請求出来るサービスがついている（または連携出来る）</li>
+</ul>
+
+
+<p>という特徴があります。</p>
+
+<p>海外では、こういうサービスが結構あるみたいですが、日本ではオンライン請求書サービス等はあっても、プロジェクト管理と組み合わせたサービスはなぜかあまり見かけません。</p>
+
+<h2>ターゲット</h2>
+
+<ul>
+<li>プログラマーやコンサルタントなどの <strong>フリーランサー</strong></li>
+<li>比較的小さい組織で、 <strong>個別受託型</strong> のビジネス領域（IT、広告、コンサル）</li>
+</ul>
+
+
+<p><img class="left" src="http://jayed-yamada.github.com/images/2012/09/TimeSpent.png" width="300" height="200">おおおおおおoofisafafおおいふぁsふぁ
+oofisa
+ofisaofjaosjfoa
+fjoasijfoajsofias
+fjoisajfoa</p>
+
+<p>ooooo
+ooooo</p>
 ]]></content>
   </entry>
   

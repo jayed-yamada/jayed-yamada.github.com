@@ -1,19 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://jayed-yamada.github.com/blog/2012/09/01/my-first-post/</loc>
-        <lastmod>2012-09-07T01:25:13+09:00</lastmod>
+        <loc>
+            http://jayed-yamada.github.com/blog/2012/09/07/3-time-tracking-services-for-freelansers-and-small-team/
+        </loc>
+        <lastmod>2012-09-07T09:16:02+09:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://jayed-yamada.github.com/blog/2012/09/07/good-by-jenkins-hello-railsonfire/
+        </loc>
+        <lastmod>2012-09-07T05:18:37+09:00</lastmod>
+    </url>
+    <url>
+        <loc>http://jayed-yamada.github.com/blog/2012/09/07/think-about-dispatch/</loc>
+        <lastmod>2012-09-07T05:23:39+09:00</lastmod>
     </url>
     <url>
         <loc>http://jayed-yamada.github.com/</loc>
-        <lastmod>2012-09-07T01:25:13+09:00</lastmod>
+        <lastmod>2012-09-07T09:16:02+09:00</lastmod>
     </url>
     <url>
         <loc>http://jayed-yamada.github.com/archives/</loc>
-        <lastmod>2012-09-07T01:25:13+09:00</lastmod>
+        <lastmod>2012-09-07T09:16:02+09:00</lastmod>
     </url>
     <url>
         <loc>http://jayed-yamada.github.com/blog/archives/</loc>
-        <lastmod>2012-09-07T01:25:13+09:00</lastmod>
+        <lastmod>2012-09-07T09:16:02+09:00</lastmod>
     </url>
 </urlset>
